@@ -1,7 +1,8 @@
 # 카테부 파이널 20조 데일리스크럼 봇
 ### AWS lambda + EventBridge + cloudwatch logs + Discord Bot
 
-<img width="711" alt="스크럼자동화봇" src="https://github.com/user-attachments/assets/73ec2dff-0c77-4e4c-ae91-018c7c6c23ea" />
+<img width="711" alt="스크럼자동화봇" src="https://github.com/user-attachments/assets/4bc5501b-7c9b-4daa-9004-b40184214eae" />
+
 
 
 ## 설명
